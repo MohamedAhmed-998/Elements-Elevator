@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Element Elevator</Name>
+		<Assembly>C:\Program Files (x86)\Elements Elevator\Element_Elevator.dll</Assembly>
+		<FullClassName>Element_Elevator.eapplication</FullClassName>
+		<AddInId>8928EFAE-69B9-47EF-9E56-3510BF86F5B5</AddInId>
+		<VendorId>Mohamed Ahmed Fathi</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

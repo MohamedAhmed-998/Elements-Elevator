@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUlQ22SU2YiS8YbyNxChZCX7r+Ke9aDvAl21kuSf0FdoQe7kNuUbihXUIq6bL+I4Md2uGQ5OAD9ajFB773lhSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohamed.fathy\\source\\repos\\Element Elevator -11 - Copy\\generalsolution\\Element_Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512"
+  ],
+  "logs": []
+}

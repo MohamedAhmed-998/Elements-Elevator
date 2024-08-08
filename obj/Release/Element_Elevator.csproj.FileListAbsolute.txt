@@ -1,0 +1,16 @@
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\bin\Release\Element_Elevator.dll
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\bin\Release\Element_Elevator.pdb
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\bin\Release\Guna.UI2.dll
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.csproj.AssemblyReference.cache
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Dialogbox\dialogbox.g.cs
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator_MarkupCompile.cache
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator_MarkupCompile.lref
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Dialogbox\dialogbox.baml
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.g.resources
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.Elevator_form.resources
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.Properties.Resources.resources
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.csproj.GenerateResource.cache
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.csproj.CopyComplete
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.dll
+C:\Users\mohamed.fathy\source\repos\Element Elevator -11 - Copy\generalsolution\obj\Release\Element_Elevator.pdb
